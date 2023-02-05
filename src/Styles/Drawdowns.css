@@ -1,0 +1,45 @@
+.draw-display {
+    display: flex;
+    /* max-width: 80%; */
+    justify-content: space-between;
+    /* background: #2B2B2B;
+    padding: 20px;
+    padding-top: 10px;
+    margin: 10px;
+    margin-left: 25px;
+    border-radius: 7%;
+    border: 1px dotted gray; */
+}
+.draw-display p{
+    color: gray;
+    margin: 5px;
+}
+.draw-downs{
+    margin-top: 5px;
+}
+.draw-outer{
+    background: #2B2B2B;
+    padding: 20px;
+    padding-top: 10px;
+    margin: 10px;
+    margin-left: 25px;
+    border-radius: 7%;
+    border: 1px dotted gray;
+}
+hr{
+    border: 1.7px dotted gray;
+}
+.principal-div{
+display: flex;
+justify-content: space-between;
+}
+.principal{
+    padding: 5px;
+    color: gray;
+
+}
+.track{
+    background: #285343;
+    text-align: center;
+
+}

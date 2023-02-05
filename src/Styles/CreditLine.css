@@ -1,0 +1,30 @@
+.credit-line{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    padding-top: 10px;
+}
+.img-block{
+    background: #2e2b2b;
+    height: 15vh;
+    width: 30%;;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20%;
+    color: white;
+    font-size: small;
+    padding: 10px;
+    font-weight: 200;
+}
+.img-block img{
+    margin-top: 10px;
+}
+.img-block p{
+    font-weight: 400;
+}
+h4{
+    color: white;
+    /* padding: 20px; */
+    margin-left: 20px;
+}

@@ -1,0 +1,19 @@
+ul li{
+    display: flex;
+    padding: 5px;
+    color: gray;
+    cursor: pointer;
+}
+ul{
+    margin: 5px;
+}
+.image{
+    height: 2vh;
+    margin: 5px;
+}
+h5{
+    color: white;
+}
+.actions{
+    margin: 20px;
+}
